@@ -1,2 +1,2 @@
 Hii All
-Lets learn Java
+Lets learn Java first
